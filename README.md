@@ -1,0 +1,5 @@
+Fetching region data from [KPU](https://pemilu2024.kpu.go.id/pilpres/hitung-suara/)
+- Provinsi ()
+- Kabupaten/Kota ()
+- Kecamatan ()
+- Kelurahan ()

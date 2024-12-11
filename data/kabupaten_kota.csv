@@ -1,0 +1,515 @@
+nama,id,kode,tingkat
+Bengkulu Selatan,191235,1701,2
+Bengkulu Tengah,191243,1709,2
+Bengkulu Utara,191237,1703,2
+Kaur,191238,1704,2
+Kepahiang,191242,1708,2
+Kota Bengkulu,191244,1771,2
+Lebong,191241,1707,2
+Muko Muko,191240,1706,2
+Rejang Lebong,191236,1702,2
+Seluma,191239,1705,2
+Bantul,191327,3402,2
+Gunungkidul,191328,3403,2
+Kota Yogyakarta,191330,3471,2
+Kulon Progo,143631,3401,2
+Sleman,191329,3404,2
+Aceh Barat,191126,1105,2
+Aceh Barat Daya,191133,1112,2
+Aceh Besar,191127,1106,2
+Aceh Jaya,191135,1114,2
+Aceh Selatan,100055,1101,2
+Aceh Singkil,191131,1110,2
+Aceh Tamiang,191137,1116,2
+Aceh Tengah,191125,1104,2
+Aceh Tenggara,191123,1102,2
+Aceh Timur,191124,1103,2
+Aceh Utara,191129,1108,2
+Bener Meriah,191138,1117,2
+Bireuen,191132,1111,2
+Gayo Lues,191134,1113,2
+Kota Banda Aceh,191140,1171,2
+Kota Langsa,191143,1174,2
+Kota Lhokseumawe,191142,1173,2
+Kota Sabang,191141,1172,2
+Kota Subulussalam,191144,1175,2
+Nagan Raya,191136,1115,2
+Pidie,191128,1107,2
+Pidie Jaya,191139,1118,2
+Simeulue,191130,1109,2
+Kota Cilegon,191373,3672,2
+Kota Serang,191374,3673,2
+Kota Tangerang,191368,3671,2
+Kota Tangerang Selatan,191375,3674,2
+Lebak,191370,3602,2
+Pandeglang,191369,3601,2
+Serang,191372,3604,2
+Tangerang,191371,3603,2
+Badung,191402,5103,2
+Bangli,191405,5106,2
+Buleleng,191407,5108,2
+Gianyar,191403,5104,2
+Jembrana,155006,5101,2
+Karangasem,191406,5107,2
+Klungkung,191404,5105,2
+Kota Denpasar,191408,5171,2
+Tabanan,191401,5102,2
+Boalemo,191145,7502,2
+Bone Bolango,191146,7503,2
+Gorontalo,178815,7501,2
+Gorontalo Utara,191148,7505,2
+Kota Gorontalo,191149,7571,2
+Pohuwato,191147,7504,2
+Kerinci,191593,1501,2
+Merangin,191594,1502,2
+Muaro Jambi,191595,1505,2
+Batanghari,191208,1504,2
+Bungo,191211,1508,2
+Kota Jambi,191213,1571,2
+Kota Sungai Penuh,191214,1572,2
+Sarolangun,191207,1503,2
+Tanjung Jabung Barat,191209,1506,2
+Tanjung Jabung Timur,191210,1507,2
+Tebo,191212,1509,2
+Adm. Kep. Seribu,127558,3101,2
+Kota Adm. Jakarta Barat,191267,3173,2
+Kota Adm. Jakarta Pusat,191265,3171,2
+Kota Adm. Jakarta Selatan,191268,3174,2
+Kota Adm. Jakarta Timur,191269,3175,2
+Kota Adm. Jakarta Utara,191266,3172,2
+Bandung,191272,3204,2
+Bandung Barat,191285,3217,2
+Bekasi,191284,3216,2
+Bogor,127885,3201,2
+Ciamis,191275,3207,2
+Cianjur,191271,3203,2
+Cirebon,191277,3209,2
+Garut,191273,3205,2
+Indramayu,191281,3212,2
+Karawang,191283,3215,2
+Kota Bandung,191289,3273,2
+Kota Banjar,134462,3279,2
+Kota Bekasi,191291,3275,2
+Kota Bogor,191287,3271,2
+Kota Cimahi,191292,3277,2
+Kota Cirebon,191290,3274,2
+Kota Depok,191279,3276,2
+Kota Sukabumi,191288,3272,2
+Kota Tasikmalaya,191293,3278,2
+Kuningan,191276,3208,2
+Majalengka,191278,3210,2
+Pangandaran,191286,3218,2
+Purwakarta,191282,3214,2
+Subang,132551,3213,2
+Sukabumi,191270,3202,2
+Sumedang,191280,3211,2
+Tasikmalaya,191274,3206,2
+Banjarnegara,191296,3304,2
+Banyumas,191294,3302,2
+Batang,191316,3325,2
+Blora,191308,3316,2
+Boyolali,191301,3309,2
+Brebes,191320,3329,2
+Cilacap,134463,3301,2
+Demak,191312,3321,2
+Grobogan,191307,3315,2
+Jepara,191311,3320,2
+Karanganyar,191305,3313,2
+Kebumen,191297,3305,2
+Kendal,191315,3324,2
+Klaten,191302,3310,2
+Kota Magelang,191321,3371,2
+Kota Pekalongan,191325,3375,2
+Kota Salatiga,191323,3373,2
+Kota Semarang,191324,3374,2
+Kota Surakarta,191322,3372,2
+Kota Tegal,191326,3376,2
+Kudus,191310,3319,2
+Magelang,191300,3308,2
+Pati,139944,3318,2
+Pekalongan,191317,3326,2
+Pemalang,191318,3327,2
+Purbalingga,191295,3303,2
+Purworejo,191298,3306,2
+Rembang,191309,3317,2
+Semarang,191313,3322,2
+Sragen,191306,3314,2
+Sukoharjo,191303,3311,2
+Tegal,191319,3328,2
+Temanggung,191314,3323,2
+Wonogiri,191304,3312,2
+Wonosobo,191299,3307,2
+Bangkalan,191355,3526,2
+Banyuwangi,191339,3510,2
+Blitar,145121,3505,2
+Bojonegoro,191351,3522,2
+Bondowoso,191340,3511,2
+Gresik,191354,3525,2
+Jember,191338,3509,2
+Jombang,191346,3517,2
+Kediri,191335,3506,2
+Kota Batu,191367,3579,2
+Kota Blitar,191360,3572,2
+Kota Kediri,191359,3571,2
+Kota Madiun,191365,3577,2
+Kota Malang,191361,3573,2
+Kota Mojokerto,191364,3576,2
+Kota Pasuruan,191363,3575,2
+Kota Probolinggo,191362,3574,2
+Kota Surabaya,191366,3578,2
+Lamongan,191353,3524,2
+Lumajang,191337,3508,2
+Madiun,191348,3519,2
+Magetan,191349,3520,2
+Malang,191336,3507,2
+Mojokerto,191345,3516,2
+Nganjuk,191347,3518,2
+Ngawi,191350,3521,2
+Pacitan,191331,3501,2
+Pamekasan,191357,3528,2
+Pasuruan,191343,3514,2
+Ponorogo,191332,3502,2
+Probolinggo,191342,3513,2
+Sampang,191356,3527,2
+Sidoarjo,191344,3515,2
+Situbondo,191341,3512,2
+Sumenep,191358,3529,2
+Trenggalek,191333,3503,2
+Tuban,191352,3523,2
+Tulungagung,191334,3504,2
+Bengkayang,191381,6107,2
+Kapuas Hulu,191380,6106,2
+Kayong Utara,191385,6111,2
+Ketapang,191378,6104,2
+Kota Pontianak,191387,6171,2
+Kota Singkawang,191388,6172,2
+Kubu Raya,191386,6112,2
+Landak,191382,6108,2
+Melawi,191384,6110,2
+Mempawah,191376,6102,2
+Sambas,160806,6101,2
+Sanggau,191377,6103,2
+Sekadau,191383,6109,2
+Sintang,191379,6105,2
+Barito Selatan,191391,6204,2
+Barito Timur,191400,6213,2
+Barito Utara,191392,6205,2
+Gunung Mas,191397,6210,2
+Kapuas,191390,6203,2
+Katingan,191393,6206,2
+Kota Palangkaraya,164830,6271,2
+Kotawaringin Barat,163157,6201,2
+Kotawaringin Timur,191389,6202,2
+Lamandau,191396,6209,2
+Murung Raya,191399,6212,2
+Pulang Pisau,191398,6211,2
+Seruyan,191394,6207,2
+Sukamara,191395,6208,2
+Balangan,191448,6311,2
+Banjar,191440,6303,2
+Barito Kuala,191441,6304,2
+Hulu Sungai Selatan,191443,6306,2
+Hulu Sungai Tengah,191444,6307,2
+Hulu Sungai Utara,191445,6308,2
+Kota Banjarbaru,191450,6372,2
+Kota Banjarmasin,191449,6371,2
+Kotabaru,191439,6302,2
+Tabalong,191446,6309,2
+Tanah Bumbu,191447,6310,2
+Tanah Laut,164831,6301,2
+Tapin,191442,6305,2
+Berau,191452,6403,2
+Kota Balikpapan,191457,6471,2
+Kota Bontang,168174,6474,2
+Kota Samarinda,191458,6472,2
+Kutai Barat,191453,6407,2
+Kutai Kartanegara,191451,6402,2
+Kutai Timur,191454,6408,2
+Mahakam Ulu,191456,6411,2
+Paser,167006,6401,2
+Penajam Paser Utara,191455,6409,2
+Bulungan,168175,6501,2
+Kota Tarakan,168683,6571,2
+Malinau,191459,6502,2
+Nunukan,191460,6503,2
+Tana Tidung,191461,6504,2
+Bangka,126661,1901,2
+Bangka Barat,191262,1905,2
+Bangka Selatan,191260,1903,2
+Bangka Tengah,191261,1904,2
+Belitung,191259,1902,2
+Belitung Timur,191263,1906,2
+Kota Pangkal Pinang,191264,1971,2
+Buru,191536,8104,2
+Buru Selatan,191541,8109,2
+Kepulauan Aru,191539,8107,2
+Kepulauan Tanimbar,191535,8103,2
+Kota Ambon,191542,8171,2
+Kota Tual,191543,8172,2
+Maluku Barat Daya,191540,8108,2
+Maluku Tengah,180295,8101,2
+Maluku Tenggara,191534,8102,2
+Seram Bagian Barat,191538,8106,2
+Seram Bagian Timur,191537,8105,2
+Bintan,121936,2101,2
+Karimun,191231,2102,2
+Kepulauan Anambas,191234,2105,2
+Kota Batam,191230,2171,2
+Kota Tanjung Pinang,127557,2172,2
+Lingga,191233,2104,2
+Natuna,191232,2103,2
+Kota Bandar Lampung,191258,1871,2
+Kota Metro,126660,1872,2
+Lampung Barat,191248,1804,2
+Lampung Selatan,191245,1801,2
+Lampung Tengah,191246,1802,2
+Lampung Timur,191251,1807,2
+Lampung Utara,191247,1803,2
+Mesuji,191255,1811,2
+Pesawaran,191253,1809,2
+Pesisir Barat,191257,1813,2
+Pringsewu,191254,1810,2
+Tanggamus,191250,1806,2
+Tulang Bawang,191249,1805,2
+Tulang Bawang Barat,191256,1812,2
+Way Kanan,191252,1808,2
+Halmahera Barat,191545,8201,2
+Halmahera Selatan,191548,8204,2
+Halmahera Tengah,191546,8202,2
+Halmahera Timur,191550,8206,2
+Halmahera Utara,191547,8203,2
+Kepulauan Sula,191549,8205,2
+Kota Ternate,191544,8271,2
+Kota Tidore Kepulauan,191553,8272,2
+Pulau Morotai,191551,8207,2
+Pulau Taliabu,191552,8208,2
+Bima,191415,5206,2
+Dompu,191414,5205,2
+Kota Bima,191413,5272,2
+Kota Mataram,191411,5271,2
+Lombok Barat,155798,5201,2
+Lombok Tengah,191409,5202,2
+Lombok Timur,191410,5203,2
+Lombok Utara,191417,5208,2
+Sumbawa,191412,5204,2
+Sumbawa Barat,191416,5207,2
+Fak Fak,191562,9203,2
+Kaimana,191565,9208,2
+Manokwari,184069,9202,2
+Manokwari Selatan,191566,9211,2
+Pegunungan Arfak,191567,9212,2
+Teluk Bintuni,191563,9206,2
+Teluk Wondama,191564,9207,2
+Biak Numfor,191555,9106,2
+Jayapura,182979,9103,2
+Keerom,191557,9111,2
+Kepulauan Yapen,191554,9105,2
+Kota Jayapura,191561,9171,2
+Mamberamo Raya,191560,9120,2
+Sarmi,191556,9110,2
+Supiori,191559,9119,2
+Waropen,191558,9115,2
+Alor,191421,5305,2
+Belu,191420,5304,2
+Ende,191424,5308,2
+Flores Timur,191422,5306,2
+Kab Timor Tengah Selatan,191418,5302,2
+Kota Kupang,191438,5371,2
+Kupang,157047,5301,2
+Lembata,191429,5313,2
+Malaka,191437,5321,2
+Manggarai,191426,5310,2
+Manggarai Barat,191431,5315,2
+Manggarai Timur,191435,5319,2
+Nagekeo,191432,5316,2
+Ngada,191425,5309,2
+Rote Ndao,191430,5314,2
+Sabu Raijua,191436,5320,2
+Sikka,191423,5307,2
+Sumba Barat,191428,5312,2
+Sumba Barat Daya,191434,5318,2
+Sumba Tengah,191433,5317,2
+Sumba Timur,191427,5311,2
+Timor Tengah Utara,191419,5303,2
+Kota Sorong,191586,9671,2
+Maybrat,191585,9605,2
+Raja Ampat,191583,9603,2
+Sorong,189958,9601,2
+Sorong Selatan,191582,9602,2
+Tambrauw,191584,9604,2
+Asmat,191533,9304,2
+Boven Digoel,191531,9302,2
+Mappi,191532,9303,2
+Merauke,177622,9301,2
+Deiyai,191574,9408,2
+Dogiyai,191572,9406,2
+Intan Jaya,191573,9407,2
+Mimika,191570,9404,2
+Nabire,185797,9401,2
+Paniai,191569,9403,2
+Puncak,191571,9405,2
+Puncak Jaya,191568,9402,2
+Jayawijaya,187122,9501,2
+Kab Pegunungan Bintang,191575,9502,2
+Lanny Jaya,191580,9507,2
+Mamberamo Tengah,191578,9505,2
+Nduga,191581,9508,2
+Tolikara,191577,9504,2
+Yahukimo,191576,9503,2
+Yalimo,191579,9506,2
+Pelalawan,191590,1405,2
+Rokan Hilir,191592,1407,2
+Rokan Hulu,191591,1406,2
+Bengkalis,191200,1403,2
+Indragiri Hilir,191201,1404,2
+Indragiri Hulu,191199,1402,2
+Kampar,114827,1401,2
+Kepulauan Meranti,191204,1410,2
+Kota Dumai,191206,1472,2
+Kota Pekanbaru,191205,1471,2
+Kuantan Singingi,191203,1409,2
+Siak,191202,1408,2
+Majene,191529,7605,2
+Mamasa,191527,7603,2
+Mamuju,191526,7602,2
+Mamuju Tengah,191530,7606,2
+Pasangkayu,191525,7601,2
+Polewali Mandar,191528,7604,2
+Bantaeng,191490,7303,2
+Barru,191497,7311,2
+Bone,191494,7308,2
+Bulukumba,191489,7302,2
+Enrekang,191501,7316,2
+Gowa,191492,7306,2
+Jeneponto,191491,7304,2
+Kepulauan Selayar,172930,7301,2
+Kota Makassar,191507,7371,2
+Kota Palopo,191509,7373,2
+Kota Parepare,191508,7372,2
+Luwu,191502,7317,2
+Luwu Timur,191505,7324,2
+Luwu Utara,191504,7322,2
+Maros,191495,7309,2
+Pangkajene Dan Kepulauan,191496,7310,2
+Pinrang,191500,7315,2
+Sidenreng Rappang,191499,7314,2
+Sinjai,191493,7307,2
+Soppeng,191498,7312,2
+Takalar,173379,7305,2
+Tana Toraja,191503,7318,2
+Toraja Utara,191506,7326,2
+Wajo,174509,7313,2
+Banggai,170707,7201,2
+Banggai Kepulauan,191482,7207,2
+Banggai Laut,191486,7211,2
+Buol,191480,7205,2
+Donggala,191478,7203,2
+Kota Palu,191488,7271,2
+Morowali,191481,7206,2
+Morowali Utara,191487,7212,2
+Parigi Moutong,191483,7208,2
+Poso,191477,7202,2
+Sigi,191485,7210,2
+Tojo Una Una,191484,7209,2
+Toli Toli,191479,7204,2
+Bombana,191514,7406,2
+Buton,191512,7404,2
+Buton Selatan,191522,7415,2
+Buton Tengah,191521,7414,2
+Buton Utara,191517,7410,2
+Kolaka,176256,7401,2
+Kolaka Timur,191518,7411,2
+Kolaka Utara,191516,7408,2
+Konawe,191511,7402,2
+Konawe Kepulauan,191519,7412,2
+Konawe Selatan,191513,7405,2
+Konawe Utara,191510,7409,2
+Kota Bau Bau,191524,7472,2
+Kota Kendari,191523,7471,2
+Muna,176825,7403,2
+Muna Barat,191520,7413,2
+Wakatobi,191515,7407,2
+Bolaang Mongondow,191462,7101,2
+Bolaang Mongondow Selatan,191472,7111,2
+Bolaang Mongondow Timur,191471,7110,2
+Bolaang Mongondow Utara,191469,7108,2
+Kep. Siau Tagulandang Biaro,191470,7109,2
+Kepulauan Sangihe,191463,7103,2
+Kepulauan Talaud,191465,7104,2
+Kota Bitung,191474,7172,2
+Kota Kotamobagu,191476,7174,2
+Kota Manado,191473,7171,2
+Kota Tomohon,191475,7173,2
+Minahasa,191464,7102,2
+Minahasa Selatan,191466,7105,2
+Minahasa Tenggara,191468,7107,2
+Minahasa Utara,191467,7106,2
+Agam,191185,1306,2
+Dharmasraya,191189,1310,2
+Kepulauan Mentawai,191188,1309,2
+Kota Bukittinggi,191196,1375,2
+Kota Padang,191192,1371,2
+Kota Padang Panjang,191195,1374,2
+Kota Pariaman,191198,1377,2
+Kota Payakumbuh,191197,1376,2
+Kota Sawahlunto,191194,1373,2
+Kota Solok,191193,1372,2
+Lima Puluh Kota,191186,1307,2
+Padang Pariaman,191184,1305,2
+Pasaman,191187,1308,2
+Pasaman Barat,191191,1312,2
+Pesisir Selatan,113400,1301,2
+Sijunjung,191182,1303,2
+Solok,191181,1302,2
+Solok Selatan,191190,1311,2
+Tanah Datar,191183,1304,2
+Banyuasin,191219,1607,2
+Empat Lawang,191223,1611,2
+Kota Lubuk Linggau,191228,1673,2
+Kota Pagar Alam,191227,1672,2
+Kota Palembang,191226,1671,2
+Kota Prabumulih,191229,1674,2
+Lahat,119377,1604,2
+Muara Enim,191217,1603,2
+Musi Banyuasin,191215,1606,2
+Musi Rawas,191218,1605,2
+Musi Rawas Utara,191225,1613,2
+Ogan Ilir,191222,1610,2
+Ogan Komering Ilir,191216,1602,2
+Ogan Komering Ulu,118596,1601,2
+Ogan Komering Ulu Selatan,191221,1609,2
+Ogan Komering Ulu Timur,191220,1608,2
+Penukal Abab Lematang Ilir,191224,1612,2
+Asahan,191156,1209,2
+Batu Bara,191166,1219,2
+Dairi,191158,1211,2
+Deli Serdang,191154,1207,2
+Humbang Hasundutan,191163,1216,2
+Karo,108070,1206,2
+Kota Binjai,191177,1275,2
+Kota Gunungsitoli,191180,1278,2
+Kota Medan,191173,1271,2
+Kota Padang Sidempuan,191179,1277,2
+Kota Pematangsiantar,191174,1272,2
+Kota Sibolga,191175,1273,2
+Kota Tanjung Balai,191176,1274,2
+Kota Tebing Tinggi,191178,1276,2
+Labuhanbatu,191157,1210,2
+Labuhanbatu Selatan,191169,1222,2
+Labuhanbatu Utara,191170,1223,2
+Langkat,191153,1205,2
+Mandailing Natal,191160,1213,2
+Nias,191152,1204,2
+Nias Barat,191172,1225,2
+Nias Selatan,191161,1214,2
+Nias Utara,191171,1224,2
+Padang Lawas,191168,1221,2
+Padang Lawas Utara,191167,1220,2
+Pakpak Bharat,191162,1215,2
+Samosir,191164,1217,2
+Serdang Bedagai,191165,1218,2
+Simalungun,191155,1208,2
+Tapanuli Selatan,191151,1203,2
+Tapanuli Tengah,106849,1201,2
+Tapanuli Utara,191150,1202,2
+Toba,191159,1212,2
